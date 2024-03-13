@@ -29,7 +29,11 @@ Recommendation: Generate personalized anime recommendations for users based on t
 # Dependencies:
 
 PySpark
+
 NumPy
+
 Pandas
+
 Seaborn
+
 Matplotlib
