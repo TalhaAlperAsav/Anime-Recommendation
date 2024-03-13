@@ -2,6 +2,10 @@
 
 The Anime Recommendation System suggests anime titles to users based on their past ratings and preferences.
 
+# Dataset:
+
+https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+
 # Key Features:
 
 Collaborative Filtering: Utilizes collaborative filtering algorithms to recommend anime titles based on user behavior and preferences.
